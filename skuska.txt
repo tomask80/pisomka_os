@@ -1,0 +1,6 @@
+echo "ahoj"
+
+test
+
+dfsdf
+
