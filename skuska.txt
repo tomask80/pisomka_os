@@ -1,6 +1,0 @@
-echo "ahoj"
-
-test
-
-dfsdf
-
